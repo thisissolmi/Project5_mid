@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Insert title here</title>
+    <title>22200103 김솔미,22200 김영빈 실전프로젝트 중간보고서 </title>
 </head>
 <body>
 
